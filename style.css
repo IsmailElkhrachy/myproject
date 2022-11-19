@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(225, 235, 238);
+  }
+  
+  h1 {
+    color: rgb(119, 128, 0);
+    margin-left: 20px;
+  }
+  li{
+    color: rgb(6, 2, 10);
+    margin-left: 20px;
+  } 
